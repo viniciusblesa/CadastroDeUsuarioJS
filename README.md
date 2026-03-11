@@ -9,7 +9,7 @@ O usuário insere:
 E o sistema retorna na tela as informações cadastradas.
 
 Tecnologias utilizadas:
-HTML
+HTML,
 JavaScript
 
 Acessar Projeto:
