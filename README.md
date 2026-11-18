@@ -11,6 +11,3 @@ E o sistema retorna na tela as informações cadastradas.
 ## Tecnologias utilizadas:
 - HTML
 - JavaScript
-
-## Acessar Projeto:
-https://viniciusblesa.github.io/CadastroDeUsuarioJS/
